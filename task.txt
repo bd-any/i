@@ -8,6 +8,9 @@ lesson3 ichidagi faylni o‘chiring
 oxirida barcha papkalarni ko‘rsating
 --------------------------------------------------------------
 Faqat ruxsat berilgan test domenida quyidagilarni bajaring:
+# o'rnatish
+sudo apt update
+sudo apt install subfinder yoki httpx-toolkit
 
 nslookup orqali domen haqida ma’lumot oling
 subfinder orqali subdomenlarni toping
