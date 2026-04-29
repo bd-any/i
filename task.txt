@@ -6,3 +6,9 @@ lesson1 ichidagi faylni nusxalang
 lesson2 ichidagi fayl nomini o‘zgartiring
 lesson3 ichidagi faylni o‘chiring
 oxirida barcha papkalarni ko‘rsating
+
+Faqat ruxsat berilgan test domenida quyidagilarni bajaring:
+
+nslookup orqali domen haqida ma’lumot oling
+subfinder orqali subdomenlarni toping
+httpx-toolkit -sc orqali qaysi subdomenlar ishlayotganini va status kodini aniqlang
